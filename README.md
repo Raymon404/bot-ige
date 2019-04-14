@@ -6,9 +6,11 @@
 * pkg install php
 * pkg install bash
 * pkg install git
-* git clone https://github.com/amingodlike/bot
-* cd bot
+* git clone https://github.com/Raymon404/bot-ige
+* cd bot-ige
 * unzip node_modules.zip
+* ls
+* node pilih yg lu mau.js
 
 # How to Run on Termux
 * bash run
